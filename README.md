@@ -36,6 +36,10 @@ N bude poté náš klíč soukromý a veřejný.
 
 Poté se nám díky složitým algoritmum vzniknu čísla a z těch poté se nám zašifruje naše zpráva.
 
+![image](https://user-images.githubusercontent.com/106261041/170565067-2e34abac-d715-4b51-adc6-44db3a5478eb.png)
+
+![image](https://user-images.githubusercontent.com/106261041/170565088-49615042-0764-4753-ab41-89311c3efc18.png)
+
 Šifrování funguje na tom principu že to vezme daný znak a pak ho po výpočtech hodí do ASCII tabulky a to následně vypíše 
 
 ![image](https://user-images.githubusercontent.com/106261041/170563276-76d26115-00ac-44af-8327-392eb48d618c.png)
@@ -44,5 +48,5 @@ Program hned nevypíše to co jsme tam napsali za zprávu ale nejdříve dešifr
 
 To je celý program.
 Chtěl jsem ho trochu vylepšit napaříklad pokud by se nenapsalo prvočíslo tak by to uživatele hodilo zpět k zadávání ale op několika pokusech co to nešlo jsem to vzdal.
-Tento projekt jsem dělal poněkud na rychlo, protože naše enigma se nám nepodařila a šli jsme dělat něco jiného a já dlouho přemýšlel co udělat, až mně napadlo tohle.
+Tento projekt jsem dělal poněkud na rychlo, protože naše enigma se nám nepodařila a šli jsme dělat něco jiného a já dlouho přemýšlel co udělat, až mě napadlo tohle.
 Přeji příjemné šifrování :)
