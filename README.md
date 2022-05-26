@@ -23,17 +23,21 @@ Nejdříve použijeme funkci include aby procesor věděl co si má připravit
 Připravím si několik proměnných.
 
 long int: promněná která pracuje s 64 bitovým číslem
+
 void: Funkce nebude vracet hodnotu
+
 Char: označení pouzde jedné promněné a jejíj hodnoty-v tomhle případě en=50 a m=50
+
 Promněná x a y musí být prvočíslo nebo program nebude fungovat a budete muset začít znovu
 
 První funkce ponese defalutně jméno main.
+
 N bude poté náš klíč soukromý a veřejný.
+
 Poté se nám díky složitým algoritmum vzniknu čísla a z těch poté se nám zašifruje naše zpráva.
-![image](https://user-images.githubusercontent.com/106261041/170564639-3e913e1f-3797-4da2-8faf-c29fd8d900c4.png)
-![image](https://user-images.githubusercontent.com/106261041/170564667-878e4ecb-cafc-4559-b502-5af66a65deac.png)
 
 Šifrování funguje na tom principu že to vezme daný znak a pak ho po výpočtech hodí do ASCII tabulky a to následně vypíše 
+
 ![image](https://user-images.githubusercontent.com/106261041/170563276-76d26115-00ac-44af-8327-392eb48d618c.png)
 
 Program hned nevypíše to co jsme tam napsali za zprávu ale nejdříve dešifruje námi již napsanou a zašifrovanou zprávu a až poté ji vypíše.
