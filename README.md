@@ -30,6 +30,9 @@ Promněná x a y musí být prvočíslo nebo program nebude fungovat a budete mu
 První funkce ponese defalutně jméno main.
 N bude poté náš klíč soukromý a veřejný.
 Poté se nám díky složitým algoritmum vzniknu čísla a z těch poté se nám zašifruje naše zpráva.
+![image](https://user-images.githubusercontent.com/106261041/170564639-3e913e1f-3797-4da2-8faf-c29fd8d900c4.png)
+![image](https://user-images.githubusercontent.com/106261041/170564667-878e4ecb-cafc-4559-b502-5af66a65deac.png)
+
 Šifrování funguje na tom principu že to vezme daný znak a pak ho po výpočtech hodí do ASCII tabulky a to následně vypíše 
 ![image](https://user-images.githubusercontent.com/106261041/170563276-76d26115-00ac-44af-8327-392eb48d618c.png)
 
